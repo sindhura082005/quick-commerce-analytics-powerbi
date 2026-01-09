@@ -28,14 +28,21 @@ To conduct a comprehensive analysis of quick commerce sales data by tracking key
 ## Skills Demonstrated
 Data Analysis, Data Cleaning, Data Modeling, DAX Calculations, KPI Reporting, Dashboard Development, Business Intelligence
 
-## Dashboard Preview
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dd1d6ba3-8a6f-4173-9622-6859b1bcb62a" />
-
 ## How to Use
 1. Download the Power BI (.pbix) file.
 2. Open it in Power BI Desktop.
 3. Update the data source path if required.
 4. Refresh the report to view the dashboard.
+
+## Outcome & impact 
+1. Enabled real-time KPI monitoring for quick commerce decision-making.
+2. Delivered actionable business insights through interactive visualizations.
+3. Improved understanding of outlet-level and product-level performance.
+4. Demonstrated end-to-end data analytics and visualization skills.
+
+## Dashboard Preview
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dd1d6ba3-8a6f-4173-9622-6859b1bcb62a" />
+
 
 
 
