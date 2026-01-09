@@ -35,13 +35,9 @@ Data Analysis, Data Cleaning, Data Modeling, DAX Calculations, KPI Reporting, Da
 4. Refresh the report to view the dashboard.
 
 ## Outcome & Impact
-
 Enabled real-time KPI monitoring for quick commerce decision-making.
-
 Delivered clear business insights through interactive visualizations.
-
 Improved understanding of outlet and product-level performance.
-
 Demonstrated end-to-end data analytics and visualization skills.
 
 ## Dashboard Preview
