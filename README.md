@@ -35,6 +35,6 @@ Data Analysis, Data Cleaning, Data Modeling, DAX Calculations, KPI Reporting, Da
 4. Refresh the report to view the dashboard.
 
 ## Data set link 
-[BlinkIT Grocery Data.xlsx](BlinkIT Grocery Data.xlsx)
+BlinkIT Grocery Data.xlsx
 
 
