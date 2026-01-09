@@ -1,1 +1,1 @@
-# quick-commerce-analytics-powerbi
+# Quick-commerce-analytics-powerbi
